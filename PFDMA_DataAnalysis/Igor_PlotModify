@@ -1,0 +1,8 @@
+ModifyGraph mirror(left)=1
+ModifyGraph mirror=1
+ModifyGraph minor(left)=1
+ModifyGraph minor=1
+Label bottom "\\Z20 dv"
+Label left "\\Z20 mV"
+ModifyGraph fSize(left)=20
+ModifyGraph fSize=20
